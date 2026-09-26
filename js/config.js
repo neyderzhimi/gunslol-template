@@ -7,11 +7,11 @@ const CONFIG = {
   // ----------------------------------------------------------
   // PROFILE
   // ----------------------------------------------------------
-  profileName:   "𝔍𝔢𝔣𝔢𝔯",      // name shown on the card
-  nameTooltip:   "Oñooo",         // tooltip on hover over the name
-  nameEffect:    "noise",         // "noise" = TV interference | "none" = plain text
-  statusText:    "🏃🏿‍➡️ Isso é muita areia hoje...", // text below the name (typewriter effect)
-  tabTitle:      "@𝔍𝔢𝔣𝔢𝔯",      // animated browser tab title
+  profileName:   "numka999",      // name shown on the card
+  nameTooltip:   "Окак",         // tooltip on hover over the name
+  nameEffect:    "шум",         // "noise" = TV interference | "none" = plain text
+  statusText:    "вассапь чудилы", // text below the name (typewriter effect)
+  tabTitle:      "",      // animated browser tab title
   entrySymbol:   "⛧",            // symbol shown on the entry screen
 
   // ----------------------------------------------------------
